@@ -9,7 +9,7 @@ Firmware Programming: C++, Qt, SQLite
 
 Computer Vision Firmware :Python, API's :  OpenCV, EasyOCR, pyzbar
 
-Embedded Systems: ESP32, Firebase IoT
+Embedded Systems: ESP32, Firebase IoT ( WiFià
 
 Database: SQLite (DB Browser)
 
